@@ -1,0 +1,1 @@
+# Script for fetching product data from a website

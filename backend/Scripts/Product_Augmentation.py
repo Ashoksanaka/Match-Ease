@@ -1,0 +1,1 @@
+# Script for augmenting product with user body
