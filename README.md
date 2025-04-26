@@ -1,4 +1,4 @@
-# Match-Ease 👚
+# Virtual-Try-On 👚
 This project aims to revolutionize the online shopping experience by providing users with a virtual try-on platform. By allowing users to see how clothing will look on their own bodies in real-time, the app 
 eliminates the guesswork of purchasing clothes online. Users simply enter a product URL, capture an image of themselves using their webcam, and the app overlays the clothing onto their body. With features like a 360-degree view, background removal, and real-time clothing fitting, users can confidently decide whether the product suits them before making a purchase. The app is designed to be fast, easy to use, and accessible on any device, without the need for user accounts or logins.
 
